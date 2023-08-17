@@ -5,7 +5,7 @@ Experienced React.js, MERN, and Next.js developer with a passion for building ro
 ###
 
 
-
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/130819757?s=400&u=d9a1fcb6b984b66dadc9b49673ecb12aa63b35d9&v=4"  />
 ###
 
 <div align="center">
@@ -34,7 +34,7 @@ Experienced React.js, MERN, and Next.js developer with a passion for building ro
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/130819757?s=400&u=d9a1fcb6b984b66dadc9b49673ecb12aa63b35d9&v=4"  />
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/harshal-katakiya" target="_blank">
