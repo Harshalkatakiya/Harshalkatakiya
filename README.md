@@ -1,5 +1,3 @@
-Experienced React.js, MERN, and Next.js developer with a passion for building robust web apps. Collaborative and eager to contribute to innovative projects. Connect on GitHub @Harshalkatakiya. 🚀
-
 <h2 align="left">Hi 👋! My name is Harshal Katakiya and I'm a MERN Stack Developer, from Rajkot, India</h2>
 
 ###
@@ -47,6 +45,6 @@ Experienced React.js, MERN, and Next.js developer with a passion for building ro
 
 ###
 
-<p align="left">Experienced React.js, MERN, and Next.js developer with a passion for building robust web apps. Collaborative and eager to contribute to innovative projects.</p>
+<p align="left">Experienced React.js, MERN, and Next.js developer with a passion for building robust web apps. Collaborative and eager to contribute to innovative projects. Connect on GitHub @Harshalkatakiya. 🚀</p>
 
 ###
