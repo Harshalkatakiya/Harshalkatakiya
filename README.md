@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Harshal Katakiya and I'm a MERN Stack Developer, from Rajkot, India</h2>
+<h2 align="left">Hi 👋! My name is Harshal Katakiya and I'm a MERN Stack & Next Js Developer</h2>
 
 ###
 
