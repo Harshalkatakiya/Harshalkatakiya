@@ -1,3 +1,48 @@
+<head><style>
+  @keyframes float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+  }
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+  @keyframes bounce {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-15px); }
+  }
+  @keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.05); }
+    100% { transform: scale(1); }
+  }
+  @keyframes swing {
+    0%, 100% { transform: rotate(0); }
+    50% { transform: rotate(15deg); }
+  }
+  @keyframes jello {
+    0%, 100% { transform: scale(1); }
+    25% { transform: scale(0.9); }
+    50% { transform: scale(1.1); }
+  }
+  @keyframes wobble {
+    0% { transform: rotate(0); }
+    25% { transform: rotate(5deg); }
+    50% { transform: rotate(-5deg); }
+    75% { transform: rotate(5deg); }
+    100% { transform: rotate(0); }
+  }
+  @keyframes shake {
+    0%, 100% { transform: translateX(0); }
+    25% { transform: translateX(-5px); }
+    75% { transform: translateX(5px); }
+  }
+  @keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+</style></head>
+<body>
 <h2 align="left">Hello, I'm Harshal Katakiya 👋</h2>
 <h4 align="left">A Passionate MERN Stack & Next.js Developer Bringing Ideas to Life with Code</h4>
 
@@ -102,48 +147,4 @@
 ---
 
 <p style="animation: fadeIn 2s;">Thank you for stopping by! Don't forget to ⭐️ any projects you find interesting!</p>
-
-<style>
-  @keyframes float {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-10px); }
-  }
-  @keyframes spin {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
-  }
-  @keyframes bounce {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-15px); }
-  }
-  @keyframes pulse {
-    0% { transform: scale(1); }
-    50% { transform: scale(1.05); }
-    100% { transform: scale(1); }
-  }
-  @keyframes swing {
-    0%, 100% { transform: rotate(0); }
-    50% { transform: rotate(15deg); }
-  }
-  @keyframes jello {
-    0%, 100% { transform: scale(1); }
-    25% { transform: scale(0.9); }
-    50% { transform: scale(1.1); }
-  }
-  @keyframes wobble {
-    0% { transform: rotate(0); }
-    25% { transform: rotate(5deg); }
-    50% { transform: rotate(-5deg); }
-    75% { transform: rotate(5deg); }
-    100% { transform: rotate(0); }
-  }
-  @keyframes shake {
-    0%, 100% { transform: translateX(0); }
-    25% { transform: translateX(-5px); }
-    75% { transform: translateX(5px); }
-  }
-  @keyframes fadeIn {
-    0% { opacity: 0; }
-    100% { opacity: 1; }
-  }
-</style>
+</body>
