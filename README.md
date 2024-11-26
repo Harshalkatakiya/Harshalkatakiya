@@ -30,6 +30,8 @@
 
 ### 📊 GitHub Stats
 
+![Snake animation](https://raw.githubusercontent.com/Harshalkatakiya/Harshalkatakiya/output/github-contribution-grid-snake-dark.svg)
+
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Harshalkatakiya&theme=blue_navy&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
   <img width="48%" src="https://streak-stats.demolab.com/?user=Harshalkatakiya&theme=blue-green&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
@@ -43,7 +45,6 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=Harshalkatakiya&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-![Snake animation](https://raw.githubusercontent.com/Harshalkatakiya/Harshalkatakiya/output/github-contribution-grid-snake-dark.svg)
 > _Want to work together? Feel free to reach out. I'm always open to new collaborations!_
 
 ### ⚡ Fun Facts
