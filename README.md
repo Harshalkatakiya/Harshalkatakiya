@@ -15,14 +15,14 @@
 
 <p align="left"><a href="https://github.com/Harshalkatakiya" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/harshal_katakiya_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/harshal-katakiya" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-**<h3 align="left">Responsible and motivated web developer with professional experience, ready to apply and expand expertise in the workplace. Offers excellent technical abilities with software and web applications, the ability to handle challenging work, and exceptional time management skills. Dedicated to prompt project completion and continual adaptation to emerging technologies. Team-oriented collaborator known for reliability, equitable task distribution in group projects, and a strong motivation to accomplish mutually held goals. 🚀</h3>**
+<h3 align="left">Responsible and motivated web developer with professional experience, ready to apply and expand expertise in the workplace. Offers excellent technical abilities with software and web applications, the ability to handle challenging work, and exceptional time management skills. Dedicated to prompt project completion and continual adaptation to emerging technologies. Team-oriented collaborator known for reliability, equitable task distribution in group projects, and a strong motivation to accomplish mutually held goals. 🚀</h3>
 
 ### 👨‍💻 About Me
 
-- **🔭 Currently Working On: Building scalable, full-stack applications with the MERN stack and Next.js.**
-- **🌱 Learning Curve: Exploring advanced JavaScript, TypeScript, and DevOps techniques to elevate my development workflow.**
-- **🎨 UI/UX Enthusiast: Crafting user interfaces that are intuitive, accessible, and aesthetically pleasing.**
-- **💬 Let's Chat About: Modern web frameworks, efficient coding practices, and tech innovations!**
+- **🔭 Currently Working On:** Building scalable, full-stack applications with the MERN stack and Next.js.
+- **🌱 Learning Curve:** Exploring advanced JavaScript, TypeScript, and DevOps techniques to elevate my development workflow.
+- **🎨 UI/UX Enthusiast:** Crafting user interfaces that are intuitive, accessible, and aesthetically pleasing.
+- **💬 Let's Chat About:** Modern web frameworks, efficient coding practices, and tech innovations!
 
 ### 💼 Skills and Technologies
 
