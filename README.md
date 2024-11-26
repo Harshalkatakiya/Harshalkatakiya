@@ -1,7 +1,3 @@
-![👋 Hi, my name is Harshal Katakiya](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
-
-![Profile views](https://komarev.com/ghpvc/?username=Harshalkatakiya&label=Profile%20views&color=0e75b6&style=flat)
-
 <div id="toc">
   <ul align="left" style="list-style: none; list-position: inside;">
     <summary>
@@ -55,3 +51,5 @@
 </div>
 
 #### <p style="animation: fadeIn 2s;">Thank you for stopping by! Don't forget to ⭐️ any projects you find interesting!</p>
+
+![Profile views](https://komarev.com/ghpvc/?username=Harshalkatakiya&label=Profile%20views&color=0e75b6&style=flat)
