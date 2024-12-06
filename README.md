@@ -41,10 +41,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshalkatakiya&theme=gotham&hide_title=false&layout=compact&langs_count=8&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
-### 🔝 Top Contributed Public Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=Harshalkatakiya&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
 > _Want to work together? Feel free to reach out. I'm always open to new collaborations!_
 
 ### ⚡ Fun Facts
